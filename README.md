@@ -1,2 +1,2 @@
 # Algorithms
-Code of Algorithms
+Code For Algorithms
